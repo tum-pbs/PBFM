@@ -2,7 +2,8 @@
 
 <div align="center">
     
-[Paper](https://arxiv.org/abs/2506.08604) • [Datasets🤗](https://huggingface.co/datasets/thuerey-group/PBFM)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.08604-b31b1b.svg)](https://arxiv.org/abs/2506.08604)
+[![Datasets on HF](https://img.shields.io/badge/%F0%9F%A4%97%20Datasets-Huggingface-yellow)](https://huggingface.co/datasets/thuerey-group/PBFM)
 </div>
 
 
